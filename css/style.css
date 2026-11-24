@@ -5,14 +5,14 @@
    ========================================================= */
 
 :root {
-  --cor-primaria: #1d4ed8;      /* Azul principal (mude para a cor da profissão!) */
-  --cor-primaria-escura: #1e3a8a;
-  --cor-destaque: #0ea5e9;
-  --cor-fundo: #ffffff;
-  --cor-fundo-suave: #f1f5f9;
-  --cor-texto: #1e293b;
-  --cor-texto-suave: #475569;
-  --cor-borda: #cbd5e1;
+  --cor-primaria: rgb(255, 179, 199);      /* Azul principal (mude para a cor da profissão!) */
+  --cor-primaria-escura: rgb(179, 0, 48);
+  --cor-destaque: rgb(255, 26, 87);
+  --cor-fundo: rgb(255, 229, 236);
+  --cor-fundo-suave: rgb(255, 229, 236);
+  --cor-texto: rgb(77, 0, 20);
+  --cor-texto-suave: rgb(75, 35, 46);
+  --cor-borda: #e1cbd1;
 }
 
 /* Reset básico */

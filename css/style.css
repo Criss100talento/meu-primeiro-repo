@@ -12,6 +12,7 @@
   --cor-fundo-suave: rgb(225, 246, 188);
   --cor-texto: rgb(41, 49, 28);
   --cor-texto-suave: rgb(68, 81, 47);
+  --cor-texto-claro: rgb(225, 246, 188);
   --cor-borda: #cbe1d0;
 }
 
@@ -58,7 +59,7 @@ body {
 }
 
 .logo span {
-  color: #93c5fd;
+  color: var(--cor-destaque);
 }
 
 .menu {
@@ -280,8 +281,8 @@ body {
 
 /* Rodapé */
 .rodape {
-  background-color: #0f172a;
-  color: #cbd5e1;
+  background-color: rgb(28, 36, 15);
+  color: var(--cor-texto-claro);
   text-align: center;
   padding: 24px 0;
   font-size: 0.9rem;
@@ -290,5 +291,5 @@ body {
 .rodape .creditos {
   margin-top: 6px;
   font-size: 0.85rem;
-  color: #94a3b8;
+  color: var(--cor-texto-suave);
 }

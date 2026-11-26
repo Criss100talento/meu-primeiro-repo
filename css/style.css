@@ -5,14 +5,14 @@
    ========================================================= */
 
 :root {
-  --cor-primaria: rgb(255, 179, 199);      /* Azul principal (mude para a cor da profissão!) */
-  --cor-primaria-escura: rgb(179, 0, 48);
-  --cor-destaque: rgb(255, 26, 87);
-  --cor-fundo: rgb(255, 229, 236);
-  --cor-fundo-suave: rgb(255, 229, 236);
-  --cor-texto: rgb(77, 0, 20);
-  --cor-texto-suave: rgb(75, 35, 46);
-  --cor-borda: #e1cbd1;
+  --cor-primaria: rgb(85, 107, 47);
+  --cor-primaria-escura: rgb(42, 53, 23);
+  --cor-destaque: rgb(132, 188, 26);
+  --cor-fundo: rgb(225, 246, 188);
+  --cor-fundo-suave: rgb(225, 246, 188);
+  --cor-texto: rgb(41, 49, 28);
+  --cor-texto-suave: rgb(68, 81, 47);
+  --cor-borda: #cbe1d0;
 }
 
 /* Reset básico */
